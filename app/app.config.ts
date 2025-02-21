@@ -4,10 +4,10 @@ export default defineAppConfig({
     available: true,
   },
   profile: {
-    name: 'Hugo Richard',
+    name: 'Michael J Paulukonis',
     job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
+    email: 'michael.paulukonis@gmail.com',
+    phone: '',
     picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
   },
   socials: {
